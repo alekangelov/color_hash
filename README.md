@@ -10,7 +10,7 @@ I needed a way to generate a color based on a string that would be consistent an
 
 ### Usage
 
-You can create a factory or use it with the defualt options
+You can create a factory or use it with the default options
 
 ```dart
 import 'package:color_hash/color_hash.dart';
@@ -36,7 +36,7 @@ void hasherFactory() {
 
 ### Tooling
 
-I also made this app that lets you dial in the settigns and see the output:
+I also made this app that lets you dial in the settings and see the output:
 ![screenshot of tool](https://github.com/alekangelov/color_hash/raw/main/screenshot.jpg)
 https://alekangelov.github.io/color_hash/
 
