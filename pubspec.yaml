@@ -1,6 +1,6 @@
 name: color_hash
 description: A utility for generating persistent colors from a string in flutter.
-version: 1.0.0
+version: 1.0.1
 homepage: https://alekangelov.github.io/color_hash/#/
 repository: https://github.com/alekangelov/color_hash
 

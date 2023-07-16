@@ -2,7 +2,7 @@
 
 ## A utility for generating persistent colors based on a string for flutter.
 
-![logo](logo.jpg)
+![logo](https://github.com/alekangelov/color_hash/raw/main/logo.jpg)
 
 ### Motivation
 
@@ -37,7 +37,7 @@ void hasherFactory() {
 ### Tooling
 
 I also made this app that lets you dial in the settigns and see the output:
-![screenshot of tool](screenshot.jpg)
+![screenshot of tool](https://github.com/alekangelov/color_hash/raw/main/screenshot.jpg)
 https://alekangelov.github.io/color_hash/
 
 ### Options
